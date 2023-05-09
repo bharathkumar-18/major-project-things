@@ -1,0 +1,3 @@
+https://learnopencv.com/building-a-body-posture-analysis-system-using-mediapipe/			Has how mediapipe works with diagram
+https://learnopencv.com/yolov7-pose-vs-mediapipe-in-human-pose-estimation/				Has briefly about mediapipe
+https://arxiv.org/abs/2202.02656											Paper for metrics and survey on top and bottom approach
